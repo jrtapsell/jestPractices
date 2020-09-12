@@ -11,6 +11,6 @@
   "dependencies": {
     "jest": "^24.9.0",
     "jest-cli": "^24.9.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
